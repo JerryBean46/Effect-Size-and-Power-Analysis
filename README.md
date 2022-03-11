@@ -1,4 +1,4 @@
-If you are interested in replicating the BJSW article results, follow these steps:
+If you are interested in replicating the Effect Size and Power Analysis presentation, follow these steps:
 
 1) Download and install R from the Comprehensive R Archive Network (the CRAN: https://cran.r-project.org).
 2) Download and install the free Desktop version of RStudio from the RStudio website (https://rstudio.com/products/rstudio/download/).
